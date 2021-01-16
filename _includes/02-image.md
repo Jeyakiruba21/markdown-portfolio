@@ -1,1 +1,1 @@
-![Profile image of Jeyakirubakaran](https://pbs.twimg.com/profile_images/922146968616480768/DGr3wMxU.jpg)
+![Profile image of Jeyakirubakaran](https://raw.githubusercontent.com/Jeyakiruba21/markdown-portfolio/main/LRM_EXPORT_20527704016987_20181222_173458191.jpeg.jpg)
