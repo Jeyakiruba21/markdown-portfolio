@@ -1,9 +1,9 @@
 # SKILLS
-* ## Languages Known
+## Languages Known
 * C
 * C++
 * JAVA
-* ### Web Development
-* ** HTML
+### Web Development
+* HTML
   * CSS
   * JAVASCRIPT
