@@ -1,4 +1,4 @@
-* #SKILLS
+#SKILLS
 * ##Languages Known
 * C
 * C++
