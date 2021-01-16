@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+* #SKILLS
+* ##Languages Known
+* C
+* C++
+* JAVA
+* ###Web Development
+* **HTML
+  *CSS
+  *JAVASCRIPT
