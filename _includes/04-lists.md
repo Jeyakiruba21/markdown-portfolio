@@ -4,6 +4,6 @@
 * C++
 * JAVA
 * ### Web Development
-* **HTML
-  *CSS
-  *JAVASCRIPT
+* ** HTML
+  * CSS
+  * JAVASCRIPT
